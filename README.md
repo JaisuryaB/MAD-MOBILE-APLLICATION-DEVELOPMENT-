@@ -2,23 +2,23 @@
 
 Contents
 
-#Project 1: login.zip
+# Project 1: login.zip
 
 Description:  a simple login page using Java in Android Studios.
 
-#Project 2: font style.zip
+# Project 2: font style.zip
 
 Description: application to change font and style of the user input.
 
-#Project 3: calculator.zip
+# Project 3: calculator.zip
 
 Description: to create a calculator application using Java in Android studious.
 
-#Project 4: studentinfoapp.zip
+# Project 4: studentinfoapp.zip
 
 Description: create an app to access and modify the student database in Excel.
 
-#Project 2: validate.zip
+# Project 5: validate.zip
 
 Description: application to validate user input credentials.
 
