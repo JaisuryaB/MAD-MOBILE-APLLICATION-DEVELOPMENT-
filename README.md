@@ -20,7 +20,8 @@ Description: create an app to access and modify the student database in Excel.
 
 # Project 5: validate.zip
 
-Description: application to validate user input credentials.
+
+# Description: application to validate user input credentials.
 
 How to Use
 
